@@ -18,7 +18,7 @@ Alternatif untuk tools editor seperti video editor, photo editor, video streamer
 - [x] Video Editor - [OpenShot](https://www.openshot.org/)
 - [x] Video Sreamer - [OBS Studio](https://obsproject.com/)
 - [X] Video Capture - [ShareX](https://getsharex.com/)
-- [] MP3 Cutter - [MP3Cut.net](https://mp3cut.net/)
+- [ ] MP3 Cutter - [MP3Cut.net](https://mp3cut.net/)
 
 ## Ingin Berkontribusi?
 Mahasiswa yang ingin berkontribusi menambahkan material ke repository ini **sangat dipersilahkan**, terutama yang memiliki passion di bidang desain dan visualisasi, dapat memberikan sumbangsihnya untuk menyediakan material yang lebih baik. Silahkah lakukan fork dan pull request ke repository ini.
